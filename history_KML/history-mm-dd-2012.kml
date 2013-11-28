@@ -1,0 +1,2109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<name>Location history from mm/dd/2012 to mm/dd/2012</name>
+<open>1</open>
+<description/>
+<StyleMap id="multiTrack">
+<Pair>
+<key>normal</key>
+<styleUrl>#multiTrack_n</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#multiTrack_h</styleUrl>
+</Pair>
+</StyleMap>
+<Style id="multiTrack_n">
+<IconStyle>
+<Icon>
+<href>http://earth.google.com/images/kml-icons/track-directional/track-0.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>99ffac59</color>
+<width>6</width>
+</LineStyle>
+</Style>
+<Style id="multiTrack_h">
+<IconStyle>
+<scale>1.2</scale>
+<Icon>
+<href>http://earth.google.com/images/kml-icons/track-directional/track-0.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>99ffac59</color>
+<width>8</width>
+</LineStyle>
+</Style>
+<Placemark>
+<name>Latitude User</name>
+<description>Location history for Latitude User from mm/dd/2012 to mm/dd/2012</description>
+<styleUrl>#multiTrack</styleUrl>
+<gx:Track>
+<altitudeMode>clampToGround</altitudeMode>
+<when>2012-mm-ddT11:43:55.860-08:00</when>
+<gx:coord>138.6051819 -34.9176269 0</gx:coord>
+<when>2012-mm-ddT11:55:47.487-08:00</when>
+<gx:coord>138.606289 -34.9175494 29</gx:coord>
+<when>2012-mm-ddT11:58:50.772-08:00</when>
+<gx:coord>138.6051946 -34.9151086 22</gx:coord>
+<when>2012-mm-ddT11:59:51.470-08:00</when>
+<gx:coord>138.6048996 -34.9143093 23</gx:coord>
+<when>2012-mm-ddT12:00:51.757-08:00</when>
+<gx:coord>138.6040091 -34.9138802 24</gx:coord>
+<when>2012-mm-ddT12:01:52.449-08:00</when>
+<gx:coord>138.6040413 -34.9132472 23</gx:coord>
+<when>2012-mm-ddT12:02:53.522-08:00</when>
+<gx:coord>138.6052054 -34.9118632 29</gx:coord>
+<when>2012-mm-ddT12:03:54.484-08:00</when>
+<gx:coord>138.6065733 -34.9109029 33</gx:coord>
+<when>2012-mm-ddT12:04:54.737-08:00</when>
+<gx:coord>138.6082309 -34.911198 37</gx:coord>
+<when>2012-mm-ddT12:05:55.559-08:00</when>
+<gx:coord>138.6093521 -34.9122869 33</gx:coord>
+<when>2012-mm-ddT12:06:56.673-08:00</when>
+<gx:coord>138.6109131 -34.9117559 34</gx:coord>
+<when>2012-mm-ddT12:07:58.597-08:00</when>
+<gx:coord>138.6105 -34.9106776 25</gx:coord>
+<when>2012-mm-ddT12:08:59.512-08:00</when>
+<gx:coord>138.6087727 -34.9110263 25</gx:coord>
+<when>2012-mm-ddT12:09:59.581-08:00</when>
+<gx:coord>138.6069059 -34.9109351 29</gx:coord>
+<when>2012-mm-ddT12:10:59.469-08:00</when>
+<gx:coord>138.6055219 -34.9116861 31</gx:coord>
+<when>2012-mm-ddT12:12:00.523-08:00</when>
+<gx:coord>138.6044007 -34.9127912 26</gx:coord>
+<when>2012-mm-ddT12:13:01.410-08:00</when>
+<gx:coord>138.6037248 -34.9134993 23</gx:coord>
+<when>2012-mm-ddT12:14:02.501-08:00</when>
+<gx:coord>138.6041808 -34.9139124 27</gx:coord>
+<when>2012-mm-ddT12:15:01.997-08:00</when>
+<gx:coord>138.6049479 -34.9143308 27</gx:coord>
+<when>2012-mm-ddT12:16:04.351-08:00</when>
+<gx:coord>138.6052644 -34.9150818 25</gx:coord>
+<when>2012-mm-ddT12:17:04.250-08:00</when>
+<gx:coord>138.6056131 -34.9158114 20</gx:coord>
+<when>2012-mm-ddT12:18:04.108-08:00</when>
+<gx:coord>138.6059564 -34.9165195 27</gx:coord>
+<when>2012-mm-ddT12:19:04.808-08:00</when>
+<gx:coord>138.6063373 -34.9171847 33</gx:coord>
+<when>2012-mm-ddT12:20:04.961-08:00</when>
+<gx:coord>138.6066216 -34.9179196 30</gx:coord>
+<when>2012-mm-ddT12:21:05.809-08:00</when>
+<gx:coord>138.6066752 -34.9184238 35</gx:coord>
+<when>2012-mm-ddT12:22:05.894-08:00</when>
+<gx:coord>138.6070829 -34.9191212 37</gx:coord>
+<when>2012-mm-ddT12:59:43.178-08:00</when>
+<gx:coord>138.6052599 -34.9175369 0</gx:coord>
+<when>2012-mm-ddT13:00:52.983-08:00</when>
+<gx:coord>138.6087302 -34.9209874 0</gx:coord>
+<when>2012-mm-ddT13:01:54.404-08:00</when>
+<gx:coord>138.6087302 -34.9209874 0</gx:coord>
+<when>2012-mm-ddT13:06:17.369-08:00</when>
+<gx:coord>138.6087302 -34.9209874 0</gx:coord>
+<when>2012-mm-ddT13:07:22.805-08:00</when>
+<gx:coord>138.6087302 -34.9209874 0</gx:coord>
+<when>2012-mm-ddT13:08:28.156-08:00</when>
+<gx:coord>138.6087302 -34.9209874 0</gx:coord>
+<when>2012-mm-ddT13:09:34.358-08:00</when>
+<gx:coord>138.6087302 -34.9209874 0</gx:coord>
+<when>2012-mm-ddT13:10:40.460-08:00</when>
+<gx:coord>138.6087302 -34.9209874 0</gx:coord>
+<when>2012-mm-ddT13:18:19.648-08:00</when>
+<gx:coord>138.6087302 -34.9209874 0</gx:coord>
+<when>2012-mm-ddT13:19:25.037-08:00</when>
+<gx:coord>138.6087302 -34.9209874 0</gx:coord>
+<when>2012-mm-ddT13:22:42.620-08:00</when>
+<gx:coord>138.6087302 -34.9209874 0</gx:coord>
+<when>2012-mm-ddT13:25:59.118-08:00</when>
+<gx:coord>138.6087302 -34.9209874 0</gx:coord>
+<when>2012-mm-ddT13:27:05.377-08:00</when>
+<gx:coord>138.6087302 -34.9209874 0</gx:coord>
+<when>2012-mm-ddT13:28:10.678-08:00</when>
+<gx:coord>138.6087302 -34.9209874 0</gx:coord>
+<when>2012-mm-ddT13:41:18.879-08:00</when>
+<gx:coord>138.6087302 -34.9209874 0</gx:coord>
+<when>2012-mm-ddT13:42:24.256-08:00</when>
+<gx:coord>138.6087302 -34.9209874 0</gx:coord>
+<when>2012-mm-ddT13:43:29.643-08:00</when>
+<gx:coord>138.6087302 -34.9209874 0</gx:coord>
+<when>2012-mm-ddT13:44:34.985-08:00</when>
+<gx:coord>138.6087302 -34.9209874 0</gx:coord>
+<when>2012-mm-ddT13:45:40.376-08:00</when>
+<gx:coord>138.6087302 -34.9209874 0</gx:coord>
+<when>2012-mm-ddT13:46:45.810-08:00</when>
+<gx:coord>138.6087302 -34.9209874 0</gx:coord>
+<when>2012-mm-ddT13:47:51.153-08:00</when>
+<gx:coord>138.6087302 -34.9209874 0</gx:coord>
+<when>2012-mm-ddT13:48:57.363-08:00</when>
+<gx:coord>138.6087302 -34.9209874 0</gx:coord>
+<when>2012-mm-ddT13:50:03.456-08:00</when>
+<gx:coord>138.6087302 -34.9209874 0</gx:coord>
+<when>2012-mm-ddT13:51:08.796-08:00</when>
+<gx:coord>138.6087302 -34.9209874 0</gx:coord>
+<when>2012-mm-ddT13:52:14.372-08:00</when>
+<gx:coord>138.6087302 -34.9209874 0</gx:coord>
+<when>2012-mm-ddT13:53:24.356-08:00</when>
+<gx:coord>138.6087302 -34.9209874 0</gx:coord>
+<when>2012-mm-ddT13:56:37.379-08:00</when>
+<gx:coord>138.6087302 -34.9209874 0</gx:coord>
+<when>2012-mm-ddT13:57:42.823-08:00</when>
+<gx:coord>138.6087302 -34.9209874 0</gx:coord>
+<when>2012-mm-ddT13:58:48.378-08:00</when>
+<gx:coord>138.6087302 -34.9209874 0</gx:coord>
+<when>2012-mm-ddT13:59:53.680-08:00</when>
+<gx:coord>138.6087302 -34.9209874 0</gx:coord>
+<when>2012-mm-ddT14:40:49.373-08:00</when>
+<gx:coord>138.6055899 -34.9198269 0</gx:coord>
+<when>2012-mm-ddT14:41:49.479-08:00</when>
+<gx:coord>138.6055899 -34.9198269 0</gx:coord>
+<when>2012-mm-ddT14:42:49.600-08:00</when>
+<gx:coord>138.6055899 -34.9198269 0</gx:coord>
+<when>2012-mm-ddT14:43:49.653-08:00</when>
+<gx:coord>138.6055899 -34.9198269 0</gx:coord>
+<when>2012-mm-ddT14:44:49.759-08:00</when>
+<gx:coord>138.6055899 -34.9198269 0</gx:coord>
+<when>2012-mm-ddT14:47:50.090-08:00</when>
+<gx:coord>138.6055814 -34.9198107 0</gx:coord>
+<when>2012-mm-ddT14:48:50.216-08:00</when>
+<gx:coord>138.6055814 -34.9198107 0</gx:coord>
+<when>2012-mm-ddT14:49:50.272-08:00</when>
+<gx:coord>138.6055814 -34.9198107 0</gx:coord>
+<when>2012-mm-ddT14:50:50.381-08:00</when>
+<gx:coord>138.6055814 -34.9198107 0</gx:coord>
+<when>2012-mm-ddT14:51:50.518-08:00</when>
+<gx:coord>138.6055814 -34.9198107 0</gx:coord>
+<when>2012-mm-ddT14:52:50.616-08:00</when>
+<gx:coord>138.6055814 -34.9198107 0</gx:coord>
+<when>2012-mm-ddT14:53:50.895-08:00</when>
+<gx:coord>138.6055814 -34.9198107 0</gx:coord>
+<when>2012-mm-ddT14:54:54.926-08:00</when>
+<gx:coord>138.6055814 -34.9198107 0</gx:coord>
+<when>2012-mm-ddT14:56:51.064-08:00</when>
+<gx:coord>138.6055814 -34.9198107 0</gx:coord>
+<when>2012-mm-ddT14:57:51.183-08:00</when>
+<gx:coord>138.6055814 -34.9198107 0</gx:coord>
+<when>2012-mm-ddT14:58:51.325-08:00</when>
+<gx:coord>138.6055814 -34.9198107 0</gx:coord>
+<when>2012-mm-ddT14:59:51.385-08:00</when>
+<gx:coord>138.6055814 -34.9198107 0</gx:coord>
+<when>2012-mm-ddT15:00:51.491-08:00</when>
+<gx:coord>138.6055814 -34.9198107 0</gx:coord>
+<when>2012-mm-ddT15:01:51.568-08:00</when>
+<gx:coord>138.6055814 -34.9198107 0</gx:coord>
+<when>2012-mm-ddT15:02:51.716-08:00</when>
+<gx:coord>138.6055814 -34.9198107 0</gx:coord>
+<when>2012-mm-ddT15:04:51.856-08:00</when>
+<gx:coord>138.6055814 -34.9198107 0</gx:coord>
+<when>2012-mm-ddT15:05:51.965-08:00</when>
+<gx:coord>138.6055814 -34.9198107 0</gx:coord>
+<when>2012-mm-ddT15:06:52.099-08:00</when>
+<gx:coord>138.6055814 -34.9198107 0</gx:coord>
+<when>2012-mm-ddT15:07:52.197-08:00</when>
+<gx:coord>138.6055814 -34.9198107 0</gx:coord>
+<when>2012-mm-ddT15:08:52.344-08:00</when>
+<gx:coord>138.6055814 -34.9198107 0</gx:coord>
+<when>2012-mm-ddT15:09:52.349-08:00</when>
+<gx:coord>138.6055814 -34.9198107 0</gx:coord>
+<when>2012-mm-ddT15:10:52.494-08:00</when>
+<gx:coord>138.6055814 -34.9198107 0</gx:coord>
+<when>2012-mm-ddT15:11:52.596-08:00</when>
+<gx:coord>138.6055814 -34.9198107 0</gx:coord>
+<when>2012-mm-ddT15:15:53.000-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:16:53.137-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:17:53.277-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:19:53.360-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:20:53.498-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:21:53.585-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:22:53.665-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:23:53.805-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:24:53.877-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:25:53.989-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:27:25.515-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:28:46.940-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:29:47.099-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:30:47.230-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:31:51.333-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:33:47.513-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:34:47.578-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:35:47.685-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:36:47.785-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:37:47.888-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:38:48.039-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:40:48.734-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:41:48.818-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:42:48.941-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:43:49.530-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:44:49.668-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:45:49.774-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:46:49.833-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:47:49.946-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:48:50.063-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:50:50.244-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:51:50.381-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:52:50.412-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:53:50.636-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:54:50.841-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:55:50.887-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:56:51.033-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:57:51.138-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT15:58:51.249-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:00:51.688-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:01:51.867-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:03:52.032-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:04:52.117-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:05:52.222-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:06:52.338-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:07:52.471-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:08:52.711-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:09:52.799-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:10:52.915-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:11:52.990-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:12:53.154-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:13:53.621-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:14:53.762-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:15:53.934-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:16:53.951-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:17:54.101-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:18:54.222-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:20:54.411-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:21:54.574-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:22:54.616-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:23:54.750-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:25:54.954-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:26:55.043-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:27:55.158-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:28:55.321-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:29:55.345-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:30:56.373-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:31:56.528-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:32:56.649-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:33:56.735-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:34:57.631-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:35:57.722-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:36:57.835-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:37:57.965-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:38:58.083-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:39:58.243-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:41:02.331-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:42:58.613-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:43:58.710-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:44:58.841-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:45:58.962-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:46:59.041-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:47:59.178-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:48:59.313-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:50:59.557-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:51:59.672-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:52:59.768-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:54:00.664-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:55:00.855-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:57:01.093-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:58:01.837-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT16:59:01.965-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:00:02.375-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:01:02.461-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:02:02.505-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:03:02.598-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:04:02.709-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:05:03.307-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:06:03.393-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:07:03.498-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:09:03.741-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:10:07.827-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:12:03.947-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:13:04.000-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:14:04.110-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:15:04.191-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:16:04.250-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:17:04.356-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:18:04.529-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:19:04.647-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:20:04.732-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:21:04.787-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:22:04.907-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:23:04.971-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:24:05.002-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:25:05.116-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:26:05.185-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:27:05.312-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:28:05.444-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:29:05.522-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:30:05.601-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:31:05.694-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:32:05.718-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:33:05.929-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:35:06.190-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:36:06.200-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:37:06.288-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:38:06.398-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:39:06.480-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:40:06.565-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:41:06.741-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:42:06.895-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:43:07.017-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:44:07.089-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:45:07.193-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:46:07.360-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:47:07.435-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:48:07.488-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:49:07.615-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:50:07.729-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:51:08.576-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:52:11.971-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:54:13.596-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:56:05.696-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:57:13.514-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:58:13.590-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT17:59:20.188-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT18:01:15.548-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT18:03:15.707-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT18:04:15.849-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT18:06:16.033-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT18:07:16.278-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT18:08:16.400-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT18:09:16.550-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT18:10:16.598-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT18:11:16.792-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT18:12:16.981-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT18:13:17.062-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT18:14:54.607-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT18:15:54.682-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT18:16:54.846-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT18:17:54.961-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT18:18:55.051-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT18:19:55.169-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT18:20:55.267-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT18:21:55.386-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT18:22:55.484-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT18:23:55.637-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT18:24:55.648-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT18:25:55.768-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT18:26:55.950-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT18:27:56.023-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT18:28:56.090-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT18:29:56.234-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT18:30:56.406-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT18:31:56.545-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT18:32:56.708-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT18:33:56.721-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT18:35:34.968-08:00</when>
+<gx:coord>138.6055891 -34.9197794 0</gx:coord>
+<when>2012-mm-ddT18:39:35.537-08:00</when>
+<gx:coord>138.6055794 -34.919812 0</gx:coord>
+<when>2012-mm-ddT18:40:35.656-08:00</when>
+<gx:coord>138.6055794 -34.919812 0</gx:coord>
+<when>2012-mm-ddT18:41:35.856-08:00</when>
+<gx:coord>138.6055794 -34.919812 0</gx:coord>
+<when>2012-mm-ddT18:42:36.011-08:00</when>
+<gx:coord>138.6055794 -34.919812 0</gx:coord>
+<when>2012-mm-ddT18:52:42.096-08:00</when>
+<gx:coord>138.6055115 -34.9198169 0</gx:coord>
+<when>2012-mm-ddT18:54:38.237-08:00</when>
+<gx:coord>138.6055115 -34.9198169 0</gx:coord>
+<when>2012-mm-ddT18:55:38.304-08:00</when>
+<gx:coord>138.6055115 -34.9198169 0</gx:coord>
+<when>2012-mm-ddT18:56:38.416-08:00</when>
+<gx:coord>138.6055115 -34.9198169 0</gx:coord>
+<when>2012-mm-ddT18:57:38.521-08:00</when>
+<gx:coord>138.6055115 -34.9198169 0</gx:coord>
+<when>2012-mm-ddT18:58:38.634-08:00</when>
+<gx:coord>138.6055115 -34.9198169 0</gx:coord>
+<when>2012-mm-ddT19:01:39.268-08:00</when>
+<gx:coord>138.6055794 -34.919812 0</gx:coord>
+<when>2012-mm-ddT19:05:39.633-08:00</when>
+<gx:coord>138.6055161 -34.9198367 0</gx:coord>
+<when>2012-mm-ddT19:06:39.743-08:00</when>
+<gx:coord>138.6055161 -34.9198367 0</gx:coord>
+<when>2012-mm-ddT19:09:41.580-08:00</when>
+<gx:coord>138.6061495 -34.9193596 0</gx:coord>
+<when>2012-mm-ddT19:11:04.675-08:00</when>
+<gx:coord>138.6070955 -34.9192941 0</gx:coord>
+<when>2012-mm-ddT19:54:11.454-08:00</when>
+<gx:coord>138.6077568 -34.9190091 0</gx:coord>
+<when>2012-mm-ddT19:55:12.124-08:00</when>
+<gx:coord>138.6072353 -34.91924 0</gx:coord>
+<when>2012-mm-ddT19:56:12.297-08:00</when>
+<gx:coord>138.6070065 -34.9193064 0</gx:coord>
+<when>2012-mm-ddT19:57:19.873-08:00</when>
+<gx:coord>138.6059559 -34.9196106 0</gx:coord>
+<when>2012-mm-ddT19:58:20.643-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT19:59:28.286-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:00:28.392-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:01:28.462-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:02:28.491-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:03:28.584-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:04:28.736-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:05:28.859-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:06:28.988-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:07:29.092-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:08:29.188-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:09:29.290-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:10:29.568-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:11:29.721-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:12:29.758-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:13:29.882-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:14:29.927-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:15:30.047-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:16:30.119-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:17:30.234-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:18:30.856-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:20:30.758-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:21:30.885-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:22:31.003-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:23:31.139-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:24:31.263-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:25:31.403-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:26:31.460-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:27:31.564-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:28:31.686-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:29:31.857-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:30:31.998-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:31:32.159-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:32:32.356-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:33:32.403-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:34:32.505-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:35:32.621-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:36:32.752-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:37:32.821-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:38:32.986-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:39:33.181-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:40:33.235-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:41:33.456-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:42:33.537-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:44:33.754-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:45:33.870-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:46:33.947-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:47:34.112-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:48:34.259-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:49:34.338-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:50:34.601-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:52:34.781-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:53:34.866-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:54:34.910-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:55:35.097-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:57:35.292-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:58:35.389-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT20:59:35.533-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:00:35.624-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:01:35.790-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:02:35.895-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:03:36.773-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:04:40.190-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:06:36.327-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:07:36.419-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:08:36.483-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:09:36.610-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:10:36.690-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:11:36.769-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:12:36.864-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:13:37.729-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:14:41.186-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:16:37.349-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:17:37.392-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:18:37.587-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:19:41.711-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:21:37.795-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:22:37.917-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:23:38.022-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:24:38.139-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:25:38.299-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:26:38.368-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:27:38.463-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:28:38.607-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:29:38.675-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:30:38.808-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:31:38.883-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:32:39.054-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:33:39.140-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:34:39.219-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:35:39.347-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:36:39.450-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:37:39.548-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:38:39.843-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:39:39.957-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:40:40.805-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:41:44.306-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:43:34.361-08:00</when>
+<gx:coord>138.6052864 -34.9197897 0</gx:coord>
+<when>2012-mm-ddT21:48:29.554-08:00</when>
+<gx:coord>138.6054648 -34.9198799 0</gx:coord>
+<when>2012-mm-ddT21:50:29.720-08:00</when>
+<gx:coord>138.6054648 -34.9198799 0</gx:coord>
+<when>2012-mm-ddT21:51:29.871-08:00</when>
+<gx:coord>138.6054648 -34.9198799 0</gx:coord>
+<when>2012-mm-ddT21:52:29.985-08:00</when>
+<gx:coord>138.6054648 -34.9198799 0</gx:coord>
+<when>2012-mm-ddT21:53:30.040-08:00</when>
+<gx:coord>138.6054648 -34.9198799 0</gx:coord>
+<when>2012-mm-ddT21:54:30.203-08:00</when>
+<gx:coord>138.6054648 -34.9198799 0</gx:coord>
+<when>2012-mm-ddT21:55:30.485-08:00</when>
+<gx:coord>138.6054648 -34.9198799 0</gx:coord>
+<when>2012-mm-ddT21:56:30.593-08:00</when>
+<gx:coord>138.6054648 -34.9198799 0</gx:coord>
+<when>2012-mm-ddT21:57:30.702-08:00</when>
+<gx:coord>138.606188 -34.9198518 0</gx:coord>
+<when>2012-mm-ddT21:58:30.826-08:00</when>
+<gx:coord>138.6055518 -34.9197595 0</gx:coord>
+<when>2012-mm-ddT21:59:30.944-08:00</when>
+<gx:coord>138.6055518 -34.9197595 0</gx:coord>
+<when>2012-mm-ddT22:03:31.370-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:04:31.476-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:06:31.697-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:07:31.789-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:08:31.893-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:09:32.061-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:12:32.386-08:00</when>
+<gx:coord>138.6055781 -34.9197287 0</gx:coord>
+<when>2012-mm-ddT22:13:32.505-08:00</when>
+<gx:coord>138.6055781 -34.9197287 0</gx:coord>
+<when>2012-mm-ddT22:14:32.584-08:00</when>
+<gx:coord>138.6055781 -34.9197287 0</gx:coord>
+<when>2012-mm-ddT22:15:32.705-08:00</when>
+<gx:coord>138.6055781 -34.9197287 0</gx:coord>
+<when>2012-mm-ddT22:16:32.774-08:00</when>
+<gx:coord>138.6055781 -34.9197287 0</gx:coord>
+<when>2012-mm-ddT22:17:32.902-08:00</when>
+<gx:coord>138.6055781 -34.9197287 0</gx:coord>
+<when>2012-mm-ddT22:21:33.862-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:22:33.951-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:23:34.086-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:24:34.620-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:25:38.496-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:27:34.544-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:28:34.670-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:29:34.769-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:30:34.872-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:31:35.024-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:32:35.105-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:33:35.255-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:34:39.705-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:35:39.792-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:36:50.503-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:37:50.613-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:39:46.730-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:40:46.806-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:41:46.922-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:42:47.025-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:43:47.141-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:44:47.186-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:45:47.286-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:46:47.413-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:47:47.563-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:48:47.594-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:49:47.732-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:50:47.842-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:51:47.964-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:52:48.600-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:53:48.637-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:54:48.752-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:55:48.870-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:56:48.949-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:57:49.081-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT22:58:49.197-08:00</when>
+<gx:coord>138.6055944 -34.9199089 0</gx:coord>
+<when>2012-mm-ddT23:04:50.478-08:00</when>
+<gx:coord>138.6055151 -34.9198167 0</gx:coord>
+<when>2012-mm-ddT23:05:50.565-08:00</when>
+<gx:coord>138.6055151 -34.9198167 0</gx:coord>
+<when>2012-mm-ddT23:09:51.047-08:00</when>
+<gx:coord>138.6055518 -34.9197595 0</gx:coord>
+<when>2012-mm-ddT23:24:53.423-08:00</when>
+<gx:coord>138.6055261 -34.919776 0</gx:coord>
+<when>2012-mm-ddT23:25:53.442-08:00</when>
+<gx:coord>138.6055261 -34.919776 0</gx:coord>
+<when>2012-mm-ddT23:26:53.513-08:00</when>
+<gx:coord>138.6055261 -34.919776 0</gx:coord>
+<when>2012-mm-ddT23:27:58.119-08:00</when>
+<gx:coord>138.6055261 -34.919776 0</gx:coord>
+<when>2012-mm-ddT23:35:45.235-08:00</when>
+<gx:coord>138.6055447 -34.9197969 0</gx:coord>
+<when>2012-mm-ddT23:36:45.426-08:00</when>
+<gx:coord>138.6055447 -34.9197969 0</gx:coord>
+<when>2012-mm-ddT23:37:45.506-08:00</when>
+<gx:coord>138.6055447 -34.9197969 0</gx:coord>
+<when>2012-mm-ddT23:38:45.645-08:00</when>
+<gx:coord>138.6055447 -34.9197969 0</gx:coord>
+<when>2012-mm-ddT23:41:46.006-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT23:42:46.083-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT23:43:50.189-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT23:45:46.204-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT23:46:46.364-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT23:47:46.490-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT23:48:50.577-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT23:49:48.888-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT00:33:09.034-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT00:34:33.654-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT00:35:33.854-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT00:36:34.064-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT00:37:34.743-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT00:39:35.665-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT00:40:35.932-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT00:41:36.103-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT00:42:36.688-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT00:43:36.885-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT00:44:37.130-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT00:45:37.326-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT00:46:37.476-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT00:47:37.676-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT00:48:37.910-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT00:49:42.251-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT00:50:55.155-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT00:51:55.969-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT00:52:56.266-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT00:53:57.109-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT00:54:57.987-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT00:55:58.285-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT00:56:58.992-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT00:57:59.999-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT00:59:01.273-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:00:02.812-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:01:03.603-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:02:04.591-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:03:05.861-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:04:06.736-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:05:07.607-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:06:08.663-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:07:09.608-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:08:10.019-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:09:11.652-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:10:12.641-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:11:13.585-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:12:14.580-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:13:20.776-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:14:21.587-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:15:22.596-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:16:22.891-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:17:24.738-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:18:25.481-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:19:25.883-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:20:26.579-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:21:27.595-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:22:28.600-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:23:29.782-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:24:30.600-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:25:31.589-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:26:32.672-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:27:33.596-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:28:34.818-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:29:35.111-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:30:41.503-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:31:41.957-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:32:47.334-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:34:48.628-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:35:48.935-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:36:49.442-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:37:49.802-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:38:50.167-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:39:50.850-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:40:51.153-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:41:51.440-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:42:51.843-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:43:52.135-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:44:52.530-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:45:52.963-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:46:53.384-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:47:53.683-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:48:54.099-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:49:54.958-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:51:00.712-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:52:00.928-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:53:01.155-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:54:02.646-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:55:03.521-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:56:04.621-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:57:04.985-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:58:10.118-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT01:59:12.009-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:00:13.536-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:02:14.081-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:03:19.301-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:04:20.317-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:05:21.449-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:06:21.622-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:07:22.445-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:08:23.296-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:09:24.425-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:10:24.599-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:12:25.540-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:14:26.563-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:15:27.452-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:16:27.636-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:17:28.332-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:18:28.530-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:19:30.313-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:20:31.323-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:21:31.516-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:22:32.415-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:23:33.346-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:25:35.195-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:27:36.634-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:28:37.299-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:29:38.317-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:30:38.537-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:31:39.736-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:33:40.304-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:35:40.767-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:36:41.305-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:37:42.275-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:38:42.734-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:39:43.328-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:40:44.309-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:41:44.494-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:42:45.445-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:43:45.621-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:44:46.466-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:45:46.739-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:46:46.956-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:47:47.442-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:48:48.307-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:49:49.410-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:50:50.290-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:52:51.371-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:53:52.327-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:54:52.550-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:55:53.436-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:56:53.664-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:57:53.969-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:58:54.140-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT02:59:54.339-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:01:56.317-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:02:57.288-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:03:57.772-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:04:57.943-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:05:58.142-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:06:58.750-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:07:59.738-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:08:59.950-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:10:00.707-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:12:00.705-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:13:00.772-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:14:00.911-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:15:01.649-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:16:01.789-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:17:01.965-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:18:02.652-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:19:02.778-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:20:02.901-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:22:03.200-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:23:03.791-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:24:03.870-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:25:03.979-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:27:04.194-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:29:04.674-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:30:04.791-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:31:04.916-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:32:06.529-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:33:11.701-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:34:12.332-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:35:13.446-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:36:14.376-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:37:15.257-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:38:15.389-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:39:16.275-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:40:16.399-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:41:16.439-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:43:16.581-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:44:16.661-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:45:16.731-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:46:16.811-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:47:16.891-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:48:16.971-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:49:17.505-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:50:17.571-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:51:17.661-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:52:17.731-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:53:17.805-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:54:17.885-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:55:17.938-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:56:18.021-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:58:18.181-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT03:59:53.456-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:00:53.622-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:01:53.783-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:02:53.937-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:03:54.102-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:04:54.262-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:05:54.434-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:06:54.603-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:07:54.762-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:08:54.922-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:09:55.082-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:10:55.242-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:11:55.412-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:13:55.732-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:14:55.884-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:15:56.052-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:16:56.222-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:17:56.382-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:18:56.552-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:19:56.733-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:20:56.894-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:22:57.423-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:23:57.552-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:24:57.716-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:25:57.882-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:26:58.042-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:27:58.197-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:28:58.362-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:29:58.533-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:31:58.841-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:32:58.995-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:33:59.142-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:34:59.296-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:35:59.456-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:36:59.633-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:37:59.802-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:38:59.962-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:40:00.131-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:41:00.541-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:42:00.674-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:43:00.805-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:44:00.938-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:45:06.061-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:46:06.222-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:47:06.382-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:48:06.552-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:49:06.712-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:50:06.872-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:51:07.032-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:52:07.192-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:53:07.352-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:54:07.522-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:55:07.680-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:56:07.842-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:57:08.002-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:58:08.162-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT04:59:08.322-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT05:00:08.484-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT05:01:08.652-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT05:02:08.804-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT05:03:08.958-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT05:04:09.105-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT05:05:09.243-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT05:06:09.398-08:00</when>
+<gx:coord>138.605548 -34.9197954 0</gx:coord>
+<when>2012-mm-ddT05:28:52.820-08:00</when>
+<gx:coord>138.6052599 -34.9175369 0</gx:coord>
+<when>2012-mm-ddT05:37:41.073-08:00</when>
+<gx:coord>138.6052498 -34.9175374 0</gx:coord>
+<when>2012-mm-ddT05:49:50.015-08:00</when>
+<gx:coord>138.6051871 -34.9176227 0</gx:coord>
+<when>2012-mm-ddT12:05:37.255-08:00</when>
+<gx:coord>138.6067941 -34.919408 0</gx:coord>
+<when>2012-mm-ddT12:15:35.066-08:00</when>
+<gx:coord>138.6055433 -34.9116969 38</gx:coord>
+<when>2012-mm-ddT12:16:35.040-08:00</when>
+<gx:coord>138.6052498 -34.9175374 38</gx:coord>
+<when>2012-mm-ddT12:17:36.148-08:00</when>
+<gx:coord>138.6082363 -34.9114125 32</gx:coord>
+<when>2012-mm-ddT12:18:36.419-08:00</when>
+<gx:coord>138.605259 -34.9175302 0</gx:coord>
+<when>2012-mm-ddT12:19:37.156-08:00</when>
+<gx:coord>138.6109882 -34.9116969 38</gx:coord>
+<when>2012-mm-ddT12:20:38.055-08:00</when>
+<gx:coord>138.6103606 -34.9106186 42</gx:coord>
+<when>2012-mm-ddT12:21:38.090-08:00</when>
+<gx:coord>138.6085957 -34.9109244 50</gx:coord>
+<when>2012-mm-ddT12:22:39.113-08:00</when>
+<gx:coord>138.6068683 -34.9108278 51</gx:coord>
+<when>2012-mm-ddT12:23:40.080-08:00</when>
+<gx:coord>138.6053985 -34.9117076 43</gx:coord>
+<when>2012-mm-ddT12:24:39.903-08:00</when>
+<gx:coord>138.6041861 -34.9128931 33</gx:coord>
+<when>2012-mm-ddT12:25:40.263-08:00</when>
+<gx:coord>138.6038321 -34.9135369 38</gx:coord>
+<when>2012-mm-ddT12:26:41.835-08:00</when>
+<gx:coord>138.6043256 -34.9139767 34</gx:coord>
+<when>2012-mm-ddT12:27:41.786-08:00</when>
+<gx:coord>138.6049371 -34.9144542 32</gx:coord>
+<when>2012-mm-ddT12:28:42.849-08:00</when>
+<gx:coord>138.6052912 -34.915173 32</gx:coord>
+<when>2012-mm-ddT12:29:43.025-08:00</when>
+<gx:coord>138.6055809 -34.9158811 33</gx:coord>
+<when>2012-mm-ddT12:30:43.979-08:00</when>
+<gx:coord>138.605951 -34.9166536 38</gx:coord>
+<when>2012-mm-ddT12:31:45.026-08:00</when>
+<gx:coord>138.6062783 -34.9173295 42</gx:coord>
+<when>2012-mm-ddT12:32:44.847-08:00</when>
+<gx:coord>138.6065572 -34.9180269 50</gx:coord>
+<when>2012-mm-ddT12:33:45.115-08:00</when>
+<gx:coord>138.6068093 -34.9185419 58</gx:coord>
+<when>2012-mm-ddT12:34:46.812-08:00</when>
+<gx:coord>138.6075067 -34.9191159 78</gx:coord>
+<when>2012-mm-ddT14:35:16.160-08:00</when>
+<gx:coord>138.6072693 -34.9192101 0</gx:coord>
+<when>2012-mm-ddT14:36:17.124-08:00</when>
+<gx:coord>138.6052255 -34.9199281 0</gx:coord>
+<when>2012-mm-ddT14:40:12.825-08:00</when>
+<gx:coord>138.6054557 -34.9197745 0</gx:coord>
+<when>2012-mm-ddT14:41:16.892-08:00</when>
+<gx:coord>138.6054557 -34.9197745 0</gx:coord>
+<when>2012-mm-ddT14:43:12.977-08:00</when>
+<gx:coord>138.6054557 -34.9197745 0</gx:coord>
+<when>2012-mm-ddT14:48:13.741-08:00</when>
+<gx:coord>138.6054521 -34.9197966 0</gx:coord>
+<when>2012-mm-ddT15:23:43.683-08:00</when>
+<gx:coord>138.6054822 -34.9197433 0</gx:coord>
+<when>2012-mm-ddT16:02:33.403-08:00</when>
+<gx:coord>138.605487 -34.919845 0</gx:coord>
+<when>2012-mm-ddT16:08:33.564-08:00</when>
+<gx:coord>138.6055424 -34.9197753 0</gx:coord>
+<when>2012-mm-ddT16:09:33.692-08:00</when>
+<gx:coord>138.6055424 -34.9197753 0</gx:coord>
+<when>2012-mm-ddT16:10:33.771-08:00</when>
+<gx:coord>138.6055424 -34.9197753 0</gx:coord>
+<when>2012-mm-ddT16:11:33.872-08:00</when>
+<gx:coord>138.6055424 -34.9197753 0</gx:coord>
+<when>2012-mm-ddT16:12:34.052-08:00</when>
+<gx:coord>138.6055424 -34.9197753 0</gx:coord>
+<when>2012-mm-ddT16:13:34.175-08:00</when>
+<gx:coord>138.6055424 -34.9197753 0</gx:coord>
+<when>2012-mm-ddT16:14:34.305-08:00</when>
+<gx:coord>138.6055424 -34.9197753 0</gx:coord>
+<when>2012-mm-ddT16:15:34.473-08:00</when>
+<gx:coord>138.6055424 -34.9197753 0</gx:coord>
+<when>2012-mm-ddT16:17:38.648-08:00</when>
+<gx:coord>138.6055424 -34.9197753 0</gx:coord>
+<when>2012-mm-ddT16:19:34.825-08:00</when>
+<gx:coord>138.6055424 -34.9197753 0</gx:coord>
+<when>2012-mm-ddT16:20:35.007-08:00</when>
+<gx:coord>138.6055424 -34.9197753 0</gx:coord>
+<when>2012-mm-ddT16:21:35.078-08:00</when>
+<gx:coord>138.6055424 -34.9197753 0</gx:coord>
+<when>2012-mm-ddT16:22:39.223-08:00</when>
+<gx:coord>138.6055424 -34.9197753 0</gx:coord>
+<when>2012-mm-ddT16:24:35.305-08:00</when>
+<gx:coord>138.6055424 -34.9197753 0</gx:coord>
+<when>2012-mm-ddT16:25:36.089-08:00</when>
+<gx:coord>138.6055424 -34.9197753 0</gx:coord>
+<when>2012-mm-ddT16:26:53.829-08:00</when>
+<gx:coord>138.6055424 -34.9197753 0</gx:coord>
+<when>2012-mm-ddT16:27:54.001-08:00</when>
+<gx:coord>138.6055424 -34.9197753 0</gx:coord>
+<when>2012-mm-ddT16:28:54.783-08:00</when>
+<gx:coord>138.6055424 -34.9197753 0</gx:coord>
+<when>2012-mm-ddT16:29:54.900-08:00</when>
+<gx:coord>138.6055599 -34.9201595 0</gx:coord>
+<when>2012-mm-ddT16:30:54.983-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT16:31:55.254-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT16:32:59.308-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT16:34:55.444-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT16:35:55.546-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT16:36:55.666-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT16:37:55.769-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT16:38:55.863-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT16:39:55.954-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT16:40:56.091-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT16:41:56.270-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT16:42:56.347-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT16:43:56.632-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT16:44:56.722-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT16:45:56.828-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT16:47:01.097-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT16:48:01.454-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT16:49:02.009-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT16:50:02.583-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT16:51:02.871-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT16:52:03.740-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT16:53:04.122-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT16:54:04.537-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT16:55:05.546-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT16:56:05.949-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT16:57:06.556-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT16:58:07.731-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT16:59:09.527-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT17:00:09.864-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT17:01:11.551-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT17:02:12.537-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT17:03:12.935-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT17:04:14.532-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT17:05:15.043-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT17:06:16.722-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT17:07:17.590-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT17:08:23.499-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT17:09:24.975-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT17:10:25.670-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT17:11:26.536-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT17:12:27.534-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT17:13:27.858-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT17:14:29.551-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT17:15:34.862-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT17:16:35.533-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT17:17:36.576-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT17:18:37.666-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT17:19:43.568-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT17:20:44.474-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT17:21:45.527-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT17:22:46.527-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT17:23:46.925-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT17:24:48.546-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT17:25:48.870-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT17:26:49.234-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT17:27:49.563-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT17:28:50.028-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT17:29:55.161-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT17:31:04.108-08:00</when>
+<gx:coord>138.6055174 -34.9197891 0</gx:coord>
+<when>2012-mm-ddT17:32:05.180-08:00</when>
+<gx:coord>138.6054601 -34.9209863 0</gx:coord>
+<when>2012-mm-ddT17:34:00.983-08:00</when>
+<gx:coord>138.604877 -34.9207687 0</gx:coord>
+<when>2012-mm-ddT18:23:27.394-08:00</when>
+<gx:coord>138.605553 -34.9213605 0</gx:coord>
+<when>2012-mm-ddT18:29:23.979-08:00</when>
+<gx:coord>138.6055599 -34.9201595 0</gx:coord>
+<when>2012-mm-ddT18:30:26.635-08:00</when>
+<gx:coord>138.6055599 -34.9201595 0</gx:coord>
+<when>2012-mm-ddT18:31:35.648-08:00</when>
+<gx:coord>138.6055599 -34.9201595 0</gx:coord>
+<when>2012-mm-ddT18:32:36.010-08:00</when>
+<gx:coord>138.6055599 -34.9201595 0</gx:coord>
+<when>2012-mm-ddT18:34:36.211-08:00</when>
+<gx:coord>138.6055599 -34.9201595 0</gx:coord>
+<when>2012-mm-ddT18:35:36.414-08:00</when>
+<gx:coord>138.6055599 -34.9201595 0</gx:coord>
+<when>2012-mm-ddT18:39:59.420-08:00</when>
+<gx:coord>138.6053487 -34.9201304 0</gx:coord>
+<when>2012-mm-ddT18:40:59.592-08:00</when>
+<gx:coord>138.6055599 -34.9201595 0</gx:coord>
+<when>2012-mm-ddT18:45:08.118-08:00</when>
+<gx:coord>138.6054281 -34.9201056 0</gx:coord>
+<when>2012-mm-ddT18:46:08.261-08:00</when>
+<gx:coord>138.6054281 -34.9201056 0</gx:coord>
+<when>2012-mm-ddT18:47:08.362-08:00</when>
+<gx:coord>138.6054281 -34.9201056 0</gx:coord>
+<when>2012-mm-ddT18:48:08.511-08:00</when>
+<gx:coord>138.6054281 -34.9201056 0</gx:coord>
+<when>2012-mm-ddT18:49:08.741-08:00</when>
+<gx:coord>138.6054281 -34.9201056 0</gx:coord>
+<when>2012-mm-ddT18:51:08.918-08:00</when>
+<gx:coord>138.6054281 -34.9201056 0</gx:coord>
+<when>2012-mm-ddT18:52:08.995-08:00</when>
+<gx:coord>138.6054281 -34.9201056 0</gx:coord>
+<when>2012-mm-ddT18:53:15.553-08:00</when>
+<gx:coord>138.6054281 -34.9201056 0</gx:coord>
+<when>2012-mm-ddT18:54:28.080-08:00</when>
+<gx:coord>138.6054281 -34.9201056 0</gx:coord>
+<when>2012-mm-ddT18:55:28.194-08:00</when>
+<gx:coord>138.6054281 -34.9201056 0</gx:coord>
+<when>2012-mm-ddT18:59:29.089-08:00</when>
+<gx:coord>138.6055473 -34.9198067 0</gx:coord>
+<when>2012-mm-ddT19:00:29.192-08:00</when>
+<gx:coord>138.6055473 -34.9198067 0</gx:coord>
+<when>2012-mm-ddT19:01:29.405-08:00</when>
+<gx:coord>138.6055473 -34.9198067 0</gx:coord>
+<when>2012-mm-ddT19:09:30.452-08:00</when>
+<gx:coord>138.6054416 -34.9197518 0</gx:coord>
+<when>2012-mm-ddT19:10:30.735-08:00</when>
+<gx:coord>138.6054416 -34.9197518 0</gx:coord>
+<when>2012-mm-ddT19:11:30.849-08:00</when>
+<gx:coord>138.6054416 -34.9197518 0</gx:coord>
+<when>2012-mm-ddT19:12:31.081-08:00</when>
+<gx:coord>138.6054416 -34.9197518 0</gx:coord>
+<when>2012-mm-ddT19:13:31.211-08:00</when>
+<gx:coord>138.6054416 -34.9197518 0</gx:coord>
+<when>2012-mm-ddT19:14:31.303-08:00</when>
+<gx:coord>138.6054416 -34.9197518 0</gx:coord>
+<when>2012-mm-ddT19:15:31.568-08:00</when>
+<gx:coord>138.6054416 -34.9197518 0</gx:coord>
+<when>2012-mm-ddT19:16:31.700-08:00</when>
+<gx:coord>138.6054416 -34.9197518 0</gx:coord>
+<when>2012-mm-ddT19:17:31.811-08:00</when>
+<gx:coord>138.6054416 -34.9197518 0</gx:coord>
+<when>2012-mm-ddT19:18:31.915-08:00</when>
+<gx:coord>138.6054416 -34.9197518 0</gx:coord>
+<when>2012-mm-ddT19:20:32.152-08:00</when>
+<gx:coord>138.6054416 -34.9197518 0</gx:coord>
+<when>2012-mm-ddT19:21:32.263-08:00</when>
+<gx:coord>138.6054416 -34.9197518 0</gx:coord>
+<when>2012-mm-ddT19:22:32.433-08:00</when>
+<gx:coord>138.6054416 -34.9197518 0</gx:coord>
+<when>2012-mm-ddT19:23:32.614-08:00</when>
+<gx:coord>138.6054416 -34.9197518 0</gx:coord>
+<when>2012-mm-ddT19:24:32.662-08:00</when>
+<gx:coord>138.6054416 -34.9197518 0</gx:coord>
+<when>2012-mm-ddT19:25:32.827-08:00</when>
+<gx:coord>138.6054416 -34.9197518 0</gx:coord>
+<when>2012-mm-ddT19:31:33.615-08:00</when>
+<gx:coord>138.6055762 -34.9198834 0</gx:coord>
+<when>2012-mm-ddT19:32:33.781-08:00</when>
+<gx:coord>138.6055762 -34.9198834 0</gx:coord>
+<when>2012-mm-ddT19:33:33.872-08:00</when>
+<gx:coord>138.6055762 -34.9198834 0</gx:coord>
+<when>2012-mm-ddT19:36:34.208-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT19:37:34.300-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT19:38:34.412-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT19:39:34.539-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT19:40:34.683-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT19:41:34.797-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT19:42:35.621-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT19:43:35.796-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT19:44:35.882-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT19:46:36.102-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT19:47:36.210-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT19:48:36.334-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT19:49:36.445-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT19:50:36.590-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT19:51:36.678-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT19:52:36.781-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT19:53:36.940-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT19:54:37.027-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT19:55:37.104-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT19:56:37.396-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT19:57:41.449-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT19:59:37.563-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:00:37.714-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:01:37.829-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:02:37.911-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:03:38.024-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:04:38.190-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:05:38.278-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:06:38.418-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:07:38.497-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:08:38.906-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:09:42.876-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:11:39.074-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:12:39.147-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:13:39.301-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:14:39.376-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:15:39.699-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:16:39.795-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:17:39.907-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:18:40.016-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:19:40.203-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:20:40.299-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:21:40.480-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:22:40.548-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:23:40.725-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:24:40.744-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:25:40.881-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:26:41.106-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:27:41.222-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:28:41.385-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:29:41.618-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:30:43.908-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:31:48.846-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:32:48.899-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:33:49.074-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:34:49.332-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:36:49.700-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:37:49.730-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:38:49.890-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:39:49.992-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:40:50.053-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:42:50.354-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:43:50.479-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:44:50.597-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:45:50.642-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:46:50.902-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:47:54.991-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:49:51.097-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:50:51.869-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:51:55.584-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:53:51.695-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:54:51.817-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:55:51.938-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:56:52.049-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:57:52.151-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:58:52.275-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT20:59:52.479-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT21:00:52.623-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT21:01:52.783-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT21:02:52.893-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT21:03:52.983-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT21:04:53.087-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT21:05:53.161-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT21:06:53.348-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT21:07:53.398-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT21:08:53.510-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT21:09:53.650-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT21:10:53.844-08:00</when>
+<gx:coord>138.6055551 -34.9197736 0</gx:coord>
+<when>2012-mm-ddT21:13:54.247-08:00</when>
+<gx:coord>138.6055511 -34.9197305 0</gx:coord>
+<when>2012-mm-ddT21:14:54.364-08:00</when>
+<gx:coord>138.6055511 -34.9197305 0</gx:coord>
+<when>2012-mm-ddT21:15:54.462-08:00</when>
+<gx:coord>138.6055511 -34.9197305 0</gx:coord>
+<when>2012-mm-ddT21:16:54.581-08:00</when>
+<gx:coord>138.6055511 -34.9197305 0</gx:coord>
+<when>2012-mm-ddT21:17:54.701-08:00</when>
+<gx:coord>138.6055511 -34.9197305 0</gx:coord>
+<when>2012-mm-ddT21:18:54.826-08:00</when>
+<gx:coord>138.6055511 -34.9197305 0</gx:coord>
+<when>2012-mm-ddT21:19:54.996-08:00</when>
+<gx:coord>138.6055511 -34.9197305 0</gx:coord>
+<when>2012-mm-ddT21:20:55.050-08:00</when>
+<gx:coord>138.6055511 -34.9197305 0</gx:coord>
+<when>2012-mm-ddT21:21:55.239-08:00</when>
+<gx:coord>138.6055511 -34.9197305 0</gx:coord>
+<when>2012-mm-ddT21:22:55.507-08:00</when>
+<gx:coord>138.6055511 -34.9197305 0</gx:coord>
+<when>2012-mm-ddT21:23:55.582-08:00</when>
+<gx:coord>138.6055511 -34.9197305 0</gx:coord>
+<when>2012-mm-ddT21:24:55.674-08:00</when>
+<gx:coord>138.6055511 -34.9197305 0</gx:coord>
+<when>2012-mm-ddT21:25:55.845-08:00</when>
+<gx:coord>138.6055511 -34.9197305 0</gx:coord>
+<when>2012-mm-ddT21:26:55.961-08:00</when>
+<gx:coord>138.6055511 -34.9197305 0</gx:coord>
+<when>2012-mm-ddT21:27:56.084-08:00</when>
+<gx:coord>138.6055511 -34.9197305 0</gx:coord>
+<when>2012-mm-ddT21:28:56.161-08:00</when>
+<gx:coord>138.6055511 -34.9197305 0</gx:coord>
+<when>2012-mm-ddT21:29:56.305-08:00</when>
+<gx:coord>138.6055511 -34.9197305 0</gx:coord>
+<when>2012-mm-ddT21:30:56.529-08:00</when>
+<gx:coord>138.6055511 -34.9197305 0</gx:coord>
+<when>2012-mm-ddT21:31:56.768-08:00</when>
+<gx:coord>138.6055511 -34.9197305 0</gx:coord>
+<when>2012-mm-ddT21:32:56.796-08:00</when>
+<gx:coord>138.6055511 -34.9197305 0</gx:coord>
+<when>2012-mm-ddT21:33:56.871-08:00</when>
+<gx:coord>138.6055511 -34.9197305 0</gx:coord>
+<when>2012-mm-ddT21:34:57.294-08:00</when>
+<gx:coord>138.6055511 -34.9197305 0</gx:coord>
+<when>2012-mm-ddT21:35:57.503-08:00</when>
+<gx:coord>138.6055511 -34.9197305 0</gx:coord>
+<when>2012-mm-ddT21:36:59.077-08:00</when>
+<gx:coord>138.6055511 -34.9197305 0</gx:coord>
+<when>2012-mm-ddT21:38:59.237-08:00</when>
+<gx:coord>138.6055511 -34.9197305 0</gx:coord>
+<when>2012-mm-ddT21:39:59.343-08:00</when>
+<gx:coord>138.6055511 -34.9197305 0</gx:coord>
+<when>2012-mm-ddT21:41:00.606-08:00</when>
+<gx:coord>138.6055511 -34.9197305 0</gx:coord>
+<when>2012-mm-ddT21:43:00.707-08:00</when>
+<gx:coord>138.6055511 -34.9197305 0</gx:coord>
+<when>2012-mm-ddT21:44:03.076-08:00</when>
+<gx:coord>138.6055511 -34.9197305 0</gx:coord>
+<when>2012-mm-ddT21:46:03.371-08:00</when>
+<gx:coord>138.6055511 -34.9197305 0</gx:coord>
+<when>2012-mm-ddT21:48:03.544-08:00</when>
+<gx:coord>138.6055511 -34.9197305 0</gx:coord>
+<when>2012-mm-ddT21:49:03.712-08:00</when>
+<gx:coord>138.6055511 -34.9197305 0</gx:coord>
+<when>2012-mm-ddT21:50:04.107-08:00</when>
+<gx:coord>138.6055511 -34.9197305 0</gx:coord>
+<when>2012-mm-ddT21:54:04.349-08:00</when>
+<gx:coord>138.6055623 -34.9198123 0</gx:coord>
+<when>2012-mm-ddT21:55:30.363-08:00</when>
+<gx:coord>138.6055623 -34.9198123 0</gx:coord>
+<when>2012-mm-ddT21:56:30.732-08:00</when>
+<gx:coord>138.6055623 -34.9198123 0</gx:coord>
+<when>2012-mm-ddT21:57:30.794-08:00</when>
+<gx:coord>138.6055623 -34.9198123 0</gx:coord>
+<when>2012-mm-ddT21:58:30.887-08:00</when>
+<gx:coord>138.6055623 -34.9198123 0</gx:coord>
+<when>2012-mm-ddT21:59:30.980-08:00</when>
+<gx:coord>138.6055623 -34.9198123 0</gx:coord>
+<when>2012-mm-ddT22:00:31.099-08:00</when>
+<gx:coord>138.6055623 -34.9198123 0</gx:coord>
+<when>2012-mm-ddT22:01:31.204-08:00</when>
+<gx:coord>138.6055623 -34.9198123 0</gx:coord>
+<when>2012-mm-ddT22:02:31.487-08:00</when>
+<gx:coord>138.6055623 -34.9198123 0</gx:coord>
+<when>2012-mm-ddT22:07:14.653-08:00</when>
+<gx:coord>138.6055469 -34.9196575 0</gx:coord>
+<when>2012-mm-ddT22:08:14.777-08:00</when>
+<gx:coord>138.6055469 -34.9196575 0</gx:coord>
+<when>2012-mm-ddT22:09:14.882-08:00</when>
+<gx:coord>138.6055469 -34.9196575 0</gx:coord>
+<when>2012-mm-ddT22:10:14.975-08:00</when>
+<gx:coord>138.6055469 -34.9196575 0</gx:coord>
+<when>2012-mm-ddT22:11:15.153-08:00</when>
+<gx:coord>138.6055469 -34.9196575 0</gx:coord>
+<when>2012-mm-ddT22:12:15.893-08:00</when>
+<gx:coord>138.6055469 -34.9196575 0</gx:coord>
+<when>2012-mm-ddT22:13:19.473-08:00</when>
+<gx:coord>138.6055469 -34.9196575 0</gx:coord>
+<when>2012-mm-ddT22:15:15.721-08:00</when>
+<gx:coord>138.6055469 -34.9196575 0</gx:coord>
+<when>2012-mm-ddT22:16:16.644-08:00</when>
+<gx:coord>138.6055469 -34.9196575 0</gx:coord>
+<when>2012-mm-ddT22:17:16.760-08:00</when>
+<gx:coord>138.6055469 -34.9196575 0</gx:coord>
+<when>2012-mm-ddT22:18:16.849-08:00</when>
+<gx:coord>138.6055469 -34.9196575 0</gx:coord>
+<when>2012-mm-ddT22:19:16.975-08:00</when>
+<gx:coord>138.6055469 -34.9196575 0</gx:coord>
+<when>2012-mm-ddT22:20:21.078-08:00</when>
+<gx:coord>138.6055469 -34.9196575 0</gx:coord>
+<when>2012-mm-ddT22:22:19.360-08:00</when>
+<gx:coord>138.6055469 -34.9196575 0</gx:coord>
+<when>2012-mm-ddT22:24:15.504-08:00</when>
+<gx:coord>138.6055469 -34.9196575 0</gx:coord>
+<when>2012-mm-ddT22:25:15.768-08:00</when>
+<gx:coord>138.6055469 -34.9196575 0</gx:coord>
+<when>2012-mm-ddT22:26:27.052-08:00</when>
+<gx:coord>138.6055469 -34.9196575 0</gx:coord>
+<when>2012-mm-ddT01:01:48.101-08:00</when>
+<gx:coord>138.605531 -34.919784 0</gx:coord>
+<when>2012-mm-ddT01:03:26.045-08:00</when>
+<gx:coord>138.605531 -34.919784 0</gx:coord>
+<when>2012-mm-ddT01:07:26.592-08:00</when>
+<gx:coord>138.6055514 -34.9197481 0</gx:coord>
+<when>2012-mm-ddT01:08:26.652-08:00</when>
+<gx:coord>138.6055514 -34.9197481 0</gx:coord>
+<when>2012-mm-ddT01:09:26.745-08:00</when>
+<gx:coord>138.6055514 -34.9197481 0</gx:coord>
+<when>2012-mm-ddT01:10:26.823-08:00</when>
+<gx:coord>138.6055514 -34.9197481 0</gx:coord>
+<when>2012-mm-ddT01:11:26.901-08:00</when>
+<gx:coord>138.6055514 -34.9197481 0</gx:coord>
+<when>2012-mm-ddT01:12:26.974-08:00</when>
+<gx:coord>138.6055514 -34.9197481 0</gx:coord>
+<when>2012-mm-ddT01:13:27.062-08:00</when>
+<gx:coord>138.6055514 -34.9197481 0</gx:coord>
+<when>2012-mm-ddT01:14:27.095-08:00</when>
+<gx:coord>138.6055514 -34.9197481 0</gx:coord>
+<when>2012-mm-ddT01:15:27.205-08:00</when>
+<gx:coord>138.6055514 -34.9197481 0</gx:coord>
+<when>2012-mm-ddT01:18:27.450-08:00</when>
+<gx:coord>138.6055423 -34.9197906 0</gx:coord>
+<when>2012-mm-ddT01:19:27.530-08:00</when>
+<gx:coord>138.6055423 -34.9197906 0</gx:coord>
+<when>2012-mm-ddT01:20:27.567-08:00</when>
+<gx:coord>138.6055423 -34.9197906 0</gx:coord>
+<when>2012-mm-ddT01:21:27.664-08:00</when>
+<gx:coord>138.6055423 -34.9197906 0</gx:coord>
+<when>2012-mm-ddT01:23:00.189-08:00</when>
+<gx:coord>138.6055423 -34.9197906 0</gx:coord>
+<when>2012-mm-ddT01:31:00.791-08:00</when>
+<gx:coord>138.6055449 -34.9197823 0</gx:coord>
+<when>2012-mm-ddT01:32:00.988-08:00</when>
+<gx:coord>138.6055449 -34.9197823 0</gx:coord>
+<when>2012-mm-ddT01:33:01.873-08:00</when>
+<gx:coord>138.6055449 -34.9197823 0</gx:coord>
+<when>2012-mm-ddT01:34:24.752-08:00</when>
+<gx:coord>138.6055449 -34.9197823 0</gx:coord>
+<when>2012-mm-ddT01:36:24.124-08:00</when>
+<gx:coord>138.6055449 -34.9197823 0</gx:coord>
+<when>2012-mm-ddT01:37:36.202-08:00</when>
+<gx:coord>138.6055449 -34.9197823 0</gx:coord>
+</gx:Track>
+</Placemark>
+</Document>
+</kml>
