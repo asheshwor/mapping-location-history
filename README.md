@@ -1,4 +1,4 @@
-NepalMaps
+Mapping Google Location History
 ---------
 
 This code plots Google location history. These are basically the coordinates collected by Google whenever a Google service is used.
