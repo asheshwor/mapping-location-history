@@ -8,3 +8,5 @@ Plots made using ggmap package in R with coordinates parsed from kml files expor
 Two sample kml files are added here with time and date removed. Sample output images are presented in sample_output folder.
 
 ![Example plot of location points](plots/adlcbd.png)
+
+![Another example plot of location points](plots/adl.png)
